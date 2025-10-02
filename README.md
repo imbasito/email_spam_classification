@@ -59,7 +59,7 @@ scikit-learn
 matplotlib
 seaborn
 
-
+```
 ---
 
 👨‍💻 Author
