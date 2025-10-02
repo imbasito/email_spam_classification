@@ -58,3 +58,12 @@ numpy
 scikit-learn
 matplotlib
 seaborn
+
+
+---
+
+👨‍💻 Author
+
+Abdul Basit Khan  
+(GitHub)[https://github.com/imbasito/email_spam_classification]
+(LinkedIn)[https://www.linkedin.com/in/imbasito/]
