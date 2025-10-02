@@ -8,12 +8,12 @@ It was developed in **Google Colab** with Python and scikit-learn.
 
 ## 📂 Project Structure
 '''
-├── plots/  
-│ ├── Classification_Report_heatmap.png # Heatmap of precision, recall, f1-score  
-│ └── confusion_matrix.png # Confusion matrix visualization  
-├── Email_Spam_Classification_Report.pdf # Detailed professional report  
-├── Email_spam_classification.ipynb # Colab notebook with full code  
-└── README.md # Project documentation  
+├── Email_Spam_Classification_Report.pdf
+├── Email_spam_classification.ipynb
+├── README.md
+└── plots
+    ├── Classification_Report_heatmap.png
+    └── confusion_matrix.png
 '''
 
 ---
