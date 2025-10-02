@@ -7,15 +7,14 @@ It was developed in **Google Colab** with Python and scikit-learn.
 ---
 
 ## 📂 Project Structure
-'''
+```
 ├── Email_Spam_Classification_Report.pdf
 ├── Email_spam_classification.ipynb
 ├── README.md
 └── plots
     ├── Classification_Report_heatmap.png
     └── confusion_matrix.png
-'''
-
+```
 ---
 
 ## 🚀 Methodology
