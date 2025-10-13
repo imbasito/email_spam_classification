@@ -20,13 +20,17 @@ It was developed in **Google Colab** with Python and scikit-learn.
 ## 🚀 Methodology
 1. **Data Preprocessing**
    - Removed extra characters, converted text to lowercase
-   - Applied TF-IDF vectorization  
-
-2. **Model Training**
+   - Applied TF-IDF vectorization
+     
+2. **OverSampling using SMOTE**
+   - OverSample the 'spam' rows to match 'ham'
+   - Produces better results
+     
+3. **Model Training**
    - Split data into 80% training and 20% testing
    - Used **Multinomial Naive Bayes classifier**  
 
-3. **Evaluation**
+4. **Evaluation**
    - Accuracy score
    - Precision, recall, F1-score
    - Classification heatmap & confusion matrix  
